@@ -1,0 +1,11 @@
+.detailsContainer{
+    background-color: rgba(128, 128, 128, 0.151);
+    justify-content: center;
+}
+.col {
+    max-width: 400px;
+    margin: 15px
+}
+.playerImage{
+    border-radius: 15px;
+}
